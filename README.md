@@ -5,15 +5,18 @@ This repository contains FAIRified data and metadata for a curated collection of
 ## Repository Structure
 
 ### `data/`
-- **spotify_data_cleaned.csv**: The cleaned version of the Spotify dataset, which includes key attributes like track title, artist, album, release date, and other metadata.
-- **spotify_data_reconciled.csv**: The reconciled version of the Spotify dataset, with additional links and identifiers to ensure compatibility with Linked Data standards and external datasets.
+- **spotify_data_cleaned_3724.csv**: The cleaned version of the Spotify dataset, which includes key attributes like track title, artist, album, release date, and other metadata. This version contains 3,724 records after data cleaning.
+- **spotify_data_reconciled_117.csv**: A sample subset of the Spotify dataset (117 rows) that has been reconciled with external identifiers for linking and interoperability.
+- **spotify_data_reconciled_117.xls**: Excel version of the reconciled dataset for easy access and manipulation in spreadsheet software.
 
 ### `rdf/`
-- **spotify_rdf_schema.ttl**: The RDF schema in Turtle format. This file represents the semantic data model, defining relationships between entities like Track, Album, and Artist according to the ontology.
+- **spotify_rdf_schema.ttl**: The RDF schema in Turtle format, representing the semantic data model and defining relationships between entities such as Track, Album, and Artist.
+- **spotify_rdf_schema.rdf**: An RDF/XML format of the schema, providing an alternative serialization for RDF applications.
 
 ### `ontology/`
-- **spotify_ontology.owl**: The ontology created using Protégé, which formalizes the classes, properties, and relationships for Spotify data. This ontology is essential for understanding the data structure and for linking to other semantic web resources.
-  
+- **Spotify_Ontology_ttl.ttl**: The ontology created using Protégé, formalizing the classes, properties, and relationships for Spotify data in Turtle format.
+- **spotify_ontology_owl.owx**: The OWL format of the ontology for use in Protégé or other ontology management tools.
+ 
 ## Data Source
 
 The original dataset was obtained from Kaggle and contains information on the **most-streamed Spotify songs of 2024**. You can find the source dataset at [Most Streamed Spotify Songs 2024 on Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024). This dataset was further processed to ensure compliance with FAIR principles, including cleaning, reconciliation, and transformation into RDF format.
