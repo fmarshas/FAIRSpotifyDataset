@@ -13,6 +13,11 @@ This repository contains FAIRified data and metadata for a curated collection of
 
 ### `ontology/`
 - **spotify_ontology.owl**: The ontology created using Protégé, which formalizes the classes, properties, and relationships for Spotify data. This ontology is essential for understanding the data structure and for linking to other semantic web resources.
+  
+## Data Source
+
+The original dataset was obtained from Kaggle and contains information on the **most-streamed Spotify songs of 2024**. You can find the source dataset at [Most Streamed Spotify Songs 2024 on Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024). This dataset was further processed to ensure compliance with FAIR principles, including cleaning, reconciliation, and transformation into RDF format.
+
 
 ## Usage
 
