@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:schema="http://schema.org/"
+	xmlns:mm="https://w3id.org/polifonia/ontology/music-meta"
+	xmlns:mo="http://purl.org/ontology/mo/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:wd="http://www.wikidata.org/entity/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:ma="http://www.w3.org/ns/ma-ont#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12400910">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125778683"/>
+	<mo:artist>Kendrick Lamar</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">04-05-2024</ma:releaseDate>
+	<mo:isrc>USUG12400910</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</has_rank>
+	<dct:identifier>USUG12400910</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28113</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">323703884</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12209777">
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</has_rank>
+	<dct:identifier>USSM12209777</dct:identifier>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q115945493"/>
+	<mo:artist>Miley Cyrus</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">12-01-2023</ma:releaseDate>
+	<mo:isrc>USSM12209777</mo:isrc>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">269802</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2031280633</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12403398">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q126196232"/>
+	<mo:artist>Eminem</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">31-05-2024</ma:releaseDate>
+	<mo:isrc>USUG12403398</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</has_rank>
+	<dct:identifier>USUG12403398</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7223</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">107034922</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USAT22311371">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q123457329"/>
+	<mo:artist>Jack Harlow</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">10-11-2023</ma:releaseDate>
+	<mo:isrc>USAT22311371</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</has_rank>
+	<dct:identifier>USAT22311371</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">105892</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">670665438</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USWB12307016">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q124422481"/>
+	<mo:artist>Benson Boone</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">18-01-2024</ma:releaseDate>
+	<mo:isrc>USWB12307016</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</has_rank>
+	<dct:identifier>USWB12307016</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">73118</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">900158751</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72404990">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125873211"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Post Malone</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">10-05-2024</ma:releaseDate>
+	<mo:isrc>USUM72404990</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</has_rank>
+	<dct:identifier>USUM72404990</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16219</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">250080413</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USWB12402486">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q1755423"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Teddy Swims</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">14-06-2024</ma:releaseDate>
+	<mo:isrc>USWB12402486</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</has_rank>
+	<dct:identifier>USWB12402486</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">111155129</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72401991">
+	<mo:isrc>USUM72401991</mo:isrc>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">138</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">221636195</hasTotalStreams>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13</has_rank>
+	<dct:identifier>USUM72401991</dct:identifier>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125688793"/>
+	<mo:artist>Billie Eilish</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">17-05-2024</ma:releaseDate>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12402041">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Future</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">22-03-2024</ma:releaseDate>
+	<mo:isrc>USSM12402041</mo:isrc>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125131153"/>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14</has_rank>
+	<dct:identifier>USSM12402041</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">43025</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">355186436</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12401028">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125511018"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Taylor Swift</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">18-04-2024</ma:releaseDate>
+	<mo:isrc>USUG12401028</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</has_rank>
+	<dct:identifier>USUG12401028</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12784</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">395433400</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USRC12301932">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q122662730"/>
+	<mo:artist>Tate Mcrae</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">14-09-2023</ma:releaseDate>
+	<mo:isrc>USRC12301932</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</has_rank>
+	<dct:identifier>USRC12301932</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">105218</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1258569694</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72401996">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q126126345"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Billie Eilish</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">17-05-2024</ma:releaseDate>
+	<mo:isrc>USUM72401996</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</has_rank>
+	<dct:identifier>USUM72401996</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6499</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">91272461</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12200612">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q111397510"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Harry Styles</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">31-03-2022</ma:releaseDate>
+	<mo:isrc>USSM12200612</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</has_rank>
+	<dct:identifier>USSM12200612</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">407119</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3301814535</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USRC12300907">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q121167968"/>
+	<mo:artist>Doja Cat</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">04-08-2023</ma:releaseDate>
+	<mo:isrc>USRC12300907</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</has_rank>
+	<dct:identifier>USRC12300907</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17089</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1065399331</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72403305">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125450571"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Sabrina Carpenter</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">12-04-2024</ma:releaseDate>
+	<mo:isrc>USUM72403305</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</has_rank>
+	<dct:identifier>USUM72403305</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24425</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">547882871</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12103949">
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">27</has_rank>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q107439752"/>
+	<mo:artist>The Kid Laroi</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">09-07-2021</ma:releaseDate>
+	<mo:isrc>USSM12103949</mo:isrc>
+	<dct:identifier>USSM12103949</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">451732</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3107100349</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72317276">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q124739632"/>
+	<mo:artist>Ariana Grande</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">08-03-2024</ma:releaseDate>
+	<mo:isrc>USUM72317276</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">29</has_rank>
+	<dct:identifier>USUM72317276</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26203</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">591068364</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USWB12400678">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q19979"/>
+	<mo:artist>Jay-z</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">12-04-2024</ma:releaseDate>
+	<mo:isrc>USWB12400678</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</has_rank>
+	<dct:identifier>USWB12400678</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">128</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1003215671</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12305126">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q123169436"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Tyla</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">28-07-2023</ma:releaseDate>
+	<mo:isrc>USSM12305126</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">33</has_rank>
+	<dct:identifier>USSM12305126</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9845</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">670376179</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USWB12302315">
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">23-06-2023</ma:releaseDate>
+	<mo:isrc>USWB12302315</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">38</has_rank>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">88239</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">775135157</hasTotalStreams>
+	<dct:identifier>USWB12302315</dct:identifier>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q122332978"/>
+	<mo:artist>Teddy Swims</mo:artist>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USAT22306575">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q120290465"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Gunna</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">15-06-2023</ma:releaseDate>
+	<mo:isrc>USAT22306575</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">39</has_rank>
+	<dct:identifier>USAT22306575</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">188142</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">759998727</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72401994">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q126721841"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Billie Eilish</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">17-05-2024</ma:releaseDate>
+	<mo:isrc>USUM72401994</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">41</has_rank>
+	<dct:identifier>USUM72401994</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10871</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">214237645</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#UKWLG2200055">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q113680812"/>
+	<mo:artist>David Guetta</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">26-08-2022</ma:releaseDate>
+	<mo:isrc>UKWLG2200055</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">43</has_rank>
+	<dct:identifier>UKWLG2200055</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">262248</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1658229422</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72404101">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q126415085"/>
+	<mo:artist>Sabrina Carpenter</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">06-06-2024</ma:releaseDate>
+	<mo:isrc>USUM72404101</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">46</has_rank>
+	<dct:identifier>USUM72404101</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2572</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">59314441</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#GBAHT2301246">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q123273186"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Dua Lipa</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">09-11-2023</ma:releaseDate>
+	<mo:isrc>GBAHT2301246</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">47</has_rank>
+	<dct:identifier>GBAHT2301246</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">453</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">493627071</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM71607007">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q28572509"/>
+	<mo:artist>Luis Fonsi</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">13-01-2017</ma:releaseDate>
+	<mo:isrc>USUM71607007</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">50</has_rank>
+	<dct:identifier>USUM71607007</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">178114</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1747093405</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#NGA3B2214021">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q113669344"/>
+	<mo:artist>Rema</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">25-08-2022</ma:releaseDate>
+	<mo:isrc>NGA3B2214021</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">53</has_rank>
+	<dct:identifier>NGA3B2214021</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">163876</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1391688322</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG11904206">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q76566134"/>
+	<mo:artist>The Weeknd</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">29-11-2019</ma:releaseDate>
+	<mo:isrc>USUG11904206</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">56</has_rank>
+	<dct:identifier>USUG11904206</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">590392</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4281468720</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12208791">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q115669312"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Metro Boomin</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">02-12-2022</ma:releaseDate>
+	<mo:isrc>USUG12208791</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">57</has_rank>
+	<dct:identifier>USUG12208791</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">228295</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1337619917</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#GBUM72205415">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q113876065"/>
+	<mo:artist>Sam Smith</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">22-09-2022</ma:releaseDate>
+	<mo:isrc>GBUM72205415</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">60</has_rank>
+	<dct:identifier>GBUM72205415</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">210583</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1556275789</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#KRA302400090">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125960688"/>
+	<mo:artist>Aespa</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">13-05-2024</ma:releaseDate>
+	<mo:isrc>KRA302400090</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">63</has_rank>
+	<dct:identifier>KRA302400090</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2483</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">69729033</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#QM6MZ2214877">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q112161024"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Bad Bunny</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">06-05-2022</ma:releaseDate>
+	<mo:isrc>QM6MZ2214877</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">64</has_rank>
+	<dct:identifier>QM6MZ2214877</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">173358</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1811990630</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USCM52400059">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q3632597"/>
+	<mo:artist>Juvenile</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">29-03-2024</ma:releaseDate>
+	<mo:isrc>USCM52400059</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">65</has_rank>
+	<dct:identifier>USCM52400059</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">199929812</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USRC12204584">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q115706733"/>
+	<mo:artist>Sza</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">08-12-2022</ma:releaseDate>
+	<mo:isrc>USRC12204584</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">68</has_rank>
+	<dct:identifier>USRC12204584</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">190202</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1873746537</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72307484">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q120638205"/>
+	<mo:artist>Billie Eilish</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">13-07-2023</ma:releaseDate>
+	<mo:isrc>USUM72307484</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">69</has_rank>
+	<dct:identifier>USUM72307484</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11456</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">891720245</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#GBUM72000433">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q104540815"/>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">29-06-2020</ma:releaseDate>
+	<mo:artist>Glass Animals</mo:artist>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:isrc>GBUM72000433</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">71</has_rank>
+	<dct:identifier>GBUM72000433</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">486278</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2996181078</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USWB11201322">
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">72</has_rank>
+	<dct:identifier>USWB11201322</dct:identifier>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q20003"/>
+	<mo:artist>Linkin Park</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">12-04-2024</ma:releaseDate>
+	<mo:isrc>USWB11201322</mo:isrc>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">97</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2045512421</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#QM6N22311285">
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">17-04-2023</ma:releaseDate>
+	<mo:isrc>QM6N22311285</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">76</has_rank>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q117816481"/>
+	<mo:artist>Grupo Frontera</mo:artist>
+	<dct:identifier>QM6N22311285</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">99381</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1008495696</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#GBUM72305159">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q119774769"/>
+	<mo:artist>Dave</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">01-06-2023</ma:releaseDate>
+	<mo:isrc>GBUM72305159</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">78</has_rank>
+	<dct:identifier>GBUM72305159</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">199828</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">692512930</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72401988">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q126374965"/>
+	<mo:artist>Billie Eilish</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">17-05-2024</ma:releaseDate>
+	<mo:isrc>USUM72401988</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">79</has_rank>
+	<dct:identifier>USUM72401988</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11028</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">169410711</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72222541">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q116880617"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Karol G</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">23-02-2023</ma:releaseDate>
+	<mo:isrc>USUM72222541</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">80</has_rank>
+	<dct:identifier>USUM72222541</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">78554</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1024381758</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSD12100307">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q107947655"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Farruko</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">24-06-2021</ma:releaseDate>
+	<mo:isrc>USSD12100307</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">82</has_rank>
+	<dct:identifier>USSD12100307</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">359502</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1500499584</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USE7D2300007">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q117706785"/>
+	<mo:artist>Eslabon Armado</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">16-03-2023</ma:releaseDate>
+	<mo:isrc>USE7D2300007</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">84</has_rank>
+	<dct:identifier>USE7D2300007</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">129463</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1215336974</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USAT22305457">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q118697941"/>
+	<mo:artist>Dua Lipa</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">25-05-2023</ma:releaseDate>
+	<mo:isrc>USAT22305457</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">85</has_rank>
+	<dct:identifier>USAT22305457</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">74769</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">860026452</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#MXF152300159">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q117834564"/>
+	<mo:artist>Yng Lvcas</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">17-03-2023</ma:releaseDate>
+	<mo:isrc>MXF152300159</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">86</has_rank>
+	<dct:identifier>MXF152300159</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">94887</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1032225805</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12309164">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q124317039"/>
+	<mo:artist>21 Savage</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">12-01-2024</ma:releaseDate>
+	<mo:isrc>USSM12309164</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">87</has_rank>
+	<dct:identifier>USSM12309164</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">57311</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">428233003</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12105970">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q108805763"/>
+	<mo:artist>Adele</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">14-10-2021</ma:releaseDate>
+	<mo:isrc>USSM12105970</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">88</has_rank>
+	<dct:identifier>USSM12105970</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">209635</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1720918065</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#QM6MZ2214878">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q112271410"/>
+	<mo:artist>Bad Bunny</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">06-05-2022</ma:releaseDate>
+	<mo:isrc>QM6MZ2214878</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">89</has_rank>
+	<dct:identifier>QM6MZ2214878</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">190692</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1514239759</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USQX92302957">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q118945253"/>
+	<mo:artist>Lil Durk</mo:artist>
+	<mo:isrc>USQX92302957</mo:isrc>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">12-05-2023</ma:releaseDate>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">90</has_rank>
+	<dct:identifier>USQX92302957</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">108322</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">333202114</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USA2P2413259">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125218978"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Illit</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">25-03-2024</ma:releaseDate>
+	<mo:isrc>USA2P2413259</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">93</has_rank>
+	<dct:identifier>USA2P2413259</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">115</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">255076355</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#GBAYE2300015">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q118696977"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Pinkpantheress</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">03-02-2023</ma:releaseDate>
+	<mo:isrc>GBAYE2300015</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">96</has_rank>
+	<dct:identifier>GBAYE2300015</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">129047</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">851085705</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USRC12204591">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q117842122"/>
+	<mo:artist>Sza</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">09-12-2022</ma:releaseDate>
+	<mo:isrc>USRC12204591</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">97</has_rank>
+	<dct:identifier>USRC12204591</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">108036</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1013350808</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#QMFMF2388143">
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">359803580</hasTotalStreams>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q123972345"/>
+	<mo:artist>Peso Pluma</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">07-12-2023</ma:releaseDate>
+	<mo:isrc>QMFMF2388143</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">98</has_rank>
+	<dct:identifier>QMFMF2388143</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26065</hasPlaylistCount>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USRC12301954">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q122791367"/>
+	<mo:artist>Doja Cat</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">22-09-2023</ma:releaseDate>
+	<mo:isrc>USRC12301954</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">99</has_rank>
+	<dct:identifier>USRC12301954</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">66219</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">509653100</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#QMFME2364182">
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">13-10-2023</ma:releaseDate>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Bad Bunny</mo:artist>
+	<mo:isrc>QMFME2364182</mo:isrc>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q123120277"/>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">103</has_rank>
+	<dct:identifier>QMFME2364182</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">73306</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">478150858</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#GBBKS2300080">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q120355638"/>
+	<mo:artist>Peggy Gou</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">15-06-2023</ma:releaseDate>
+	<mo:isrc>GBBKS2300080</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">105</has_rank>
+	<dct:identifier>GBBKS2300080</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">163449</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">460156070</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#GBAHT2301078">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q124365968"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Dua Lipa</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">15-02-2024</ma:releaseDate>
+	<mo:isrc>GBAHT2301078</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">106</has_rank>
+	<dct:identifier>GBAHT2301078</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16811</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">251153869</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12402033">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125108785"/>
+	<mo:artist>Future</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">22-03-2024</ma:releaseDate>
+	<mo:isrc>USSM12402033</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">107</has_rank>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28064</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">205206688</hasTotalStreams>
+	<dct:identifier>USSM12402033</dct:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#KRA302400093">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125569037"/>
+	<mo:artist>Aespa</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">27-05-2024</ma:releaseDate>
+	<mo:isrc>KRA302400093</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">108</has_rank>
+	<dct:identifier>KRA302400093</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1262</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">32942304</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USAT21906978">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q82025076"/>
+	<mo:artist>Roddy Ricch</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">06-12-2019</ma:releaseDate>
+	<mo:isrc>USAT21906978</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">109</has_rank>
+	<dct:identifier>USAT21906978</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">317345</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1911559785</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12204574">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q115111032"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Meghan Trainor</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">21-10-2022</ma:releaseDate>
+	<mo:isrc>USSM12204574</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">135</has_rank>
+	<dct:identifier>USSM12204574</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">74295</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">720720922</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72208023">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q112323717"/>
+	<mo:artist>Post Malone</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">03-06-2022</ma:releaseDate>
+	<mo:isrc>USUM72208023</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">179</has_rank>
+	<dct:identifier>USUM72208023</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118965</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">827950825</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12208783">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q115730111"/>
+	<mo:artist>Metro Boomin</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">02-12-2022</ma:releaseDate>
+	<mo:isrc>USUG12208783</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">218</has_rank>
+	<dct:identifier>USUG12208783</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">166277</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">706356280</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12306461">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q121547614"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Miley Cyrus</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">18-08-2023</ma:releaseDate>
+	<mo:isrc>USSM12306461</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">227</has_rank>
+	<dct:identifier>USSM12306461</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30639</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">205468104</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12306691">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q123244774"/>
+	<mo:artist>Taylor Swift</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">26-10-2023</ma:releaseDate>
+	<mo:isrc>USUG12306691</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">240</has_rank>
+	<dct:identifier>USUG12306691</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20404</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">406821432</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12105732">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q108570587"/>
+	<mo:artist>Lil Nas X</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">17-09-2021</ma:releaseDate>
+	<mo:isrc>USSM12105732</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">248</has_rank>
+	<dct:identifier>USSM12105732</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">165197</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1062095453</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12200610">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q112075432"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Harry Styles</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">20-05-2022</ma:releaseDate>
+	<mo:isrc>USSM12200610</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">258</has_rank>
+	<dct:identifier>USSM12200610</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">108806</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">959639297</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG11600976">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q26980835"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>The Weeknd</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">22-09-2016</ma:releaseDate>
+	<mo:isrc>USUG11600976</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">265</has_rank>
+	<dct:identifier>USUG11600976</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">366133</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3291262413</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12401040">
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">267</has_rank>
+	<dct:identifier>USUG12401040</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7079</hasPlaylistCount>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125568545"/>
+	<mo:artist>Taylor Swift</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">18-04-2024</ma:releaseDate>
+	<mo:isrc>USUG12401040</mo:isrc>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">250430303</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#QM6MZ2214875">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q112056138"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Bad Bunny</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">06-05-2022</ma:releaseDate>
+	<mo:isrc>QM6MZ2214875</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">272</has_rank>
+	<dct:identifier>QM6MZ2214875</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">121256</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1108031580</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#QM6MZ2214884">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q112762617"/>
+	<mo:artist>Bad Bunny</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">06-05-2022</ma:releaseDate>
+	<mo:isrc>QM6MZ2214884</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">292</has_rank>
+	<dct:identifier>QM6MZ2214884</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">115332</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1293773697</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USA2P2348391">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q123243750"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Jung Kook</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">03-11-2023</ma:releaseDate>
+	<mo:isrc>USA2P2348391</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">321</has_rank>
+	<dct:identifier>USA2P2348391</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23181</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">675865902</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72212470">
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">08-07-2022</ma:releaseDate>
+	<mo:isrc>USUM72212470</mo:isrc>
+	<mo:artist>Noah Kahan</mo:artist>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q123418409"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">342</has_rank>
+	<dct:identifier>USUM72212470</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">113676</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">965865213</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12000658">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q96405034"/>
+	<mo:artist>The Weeknd</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">20-03-2020</ma:releaseDate>
+	<mo:isrc>USUG12000658</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">371</has_rank>
+	<dct:identifier>USUG12000658</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">304456</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1995511952</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72105936">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Billie Eilish</mo:artist>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q106634897"/>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">30-07-2021</ma:releaseDate>
+	<mo:isrc>USUM72105936</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">372</has_rank>
+	<dct:identifier>USUM72105936</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">189487</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1321878145</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USAT21602948">
+	<dct:identifier>USAT21602948</dct:identifier>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q28452709"/>
+	<mo:artist>Bruno Mars</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">17-11-2016</ma:releaseDate>
+	<mo:isrc>USAT21602948</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">378</has_rank>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">209632</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2075459887</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSD12100779">
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">397</has_rank>
+	<dct:identifier>USSD12100779</dct:identifier>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q113297089"/>
+	<mo:artist>Rauw Alejandro</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">10-12-2021</ma:releaseDate>
+	<mo:isrc>USSD12100779</mo:isrc>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">119558</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1021480638</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USQX92002595">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q104034124"/>
+	<mo:artist>Polo G</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">15-05-2020</ma:releaseDate>
+	<mo:isrc>USQX92002595</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">516</has_rank>
+	<dct:identifier>USQX92002595</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">212406</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">885756212</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12004194">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q105038625"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Morgan Wallen</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">08-01-2021</ma:releaseDate>
+	<mo:isrc>USUG12004194</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">545</has_rank>
+	<dct:identifier>USUG12004194</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">73851</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">717226454</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12203787">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q112648818"/>
+	<mo:artist>Future</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">29-04-2022</ma:releaseDate>
+	<mo:isrc>USSM12203787</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">560</has_rank>
+	<dct:identifier>USSM12203787</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">135307</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">395167576</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12001905">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q97382488"/>
+	<mo:artist>Juice Wrld</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">10-07-2020</ma:releaseDate>
+	<mo:isrc>USUG12001905</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">583</has_rank>
+	<dct:identifier>USUG12001905</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">157381</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">901486450</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM71702833">
+	<mo:isrc>USUM71702833</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">589</has_rank>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<dct:identifier>USUM71702833</dct:identifier>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q29998244"/>
+	<mo:artist>Shawn Mendes</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">23-09-2016</ma:releaseDate>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">185796</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2043626431</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM71602107">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q26764060"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Ariana Grande</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">01-04-2016</ma:releaseDate>
+	<mo:isrc>USUM71602107</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">680</has_rank>
+	<dct:identifier>USUM71602107</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">120921</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1427792654</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72317268">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q124817156"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Ariana Grande</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">08-03-2024</ma:releaseDate>
+	<mo:isrc>USUM72317268</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">752</has_rank>
+	<dct:identifier>USUM72317268</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8386</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">175336290</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#QM6MZ2214885">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q2528043"/>
+	<mo:artist>Bad Bunny</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">06-05-2022</ma:releaseDate>
+	<mo:isrc>QM6MZ2214885</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">789</has_rank>
+	<dct:identifier>QM6MZ2214885</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">83311</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">725076772</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#QM6MZ2214881">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q112300372"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Bad Bunny</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">06-05-2022</ma:releaseDate>
+	<mo:isrc>QM6MZ2214881</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">796</has_rank>
+	<dct:identifier>QM6MZ2214881</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">93128</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">742515730</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72001714">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q86752288"/>
+	<mo:artist>Lil Mosey</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">08-11-2019</ma:releaseDate>
+	<mo:isrc>USUM72001714</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">889</has_rank>
+	<dct:identifier>USUM72001714</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">197036</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1295251940</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USRC12101535">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q108392446"/>
+	<mo:artist>Doja Cat</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">25-06-2021</ma:releaseDate>
+	<mo:isrc>USRC12101535</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">895</has_rank>
+	<dct:identifier>USRC12101535</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">97704</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">603196133</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM71813195">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q57461813"/>
+	<mo:artist>Lady Gaga</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">05-10-2018</ma:releaseDate>
+	<mo:isrc>USUM71813195</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">901</has_rank>
+	<dct:identifier>USUM71813195</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">137601</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1269760706</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12304099">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q121225459"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Olivia Rodrigo</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">08-09-2023</ma:releaseDate>
+	<mo:isrc>USUG12304099</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">971</has_rank>
+	<dct:identifier>USUG12304099</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2546</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">287724574</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12101247">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q108107114"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Olivia Rodrigo</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">21-05-2021</ma:releaseDate>
+	<mo:isrc>USUG12101247</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1015</has_rank>
+	<dct:identifier>USUG12101247</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">116055</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1133535049</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USRC12204598">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q115755882"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Sza</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">09-12-2022</ma:releaseDate>
+	<mo:isrc>USRC12204598</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1091</has_rank>
+	<dct:identifier>USRC12204598</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">58561</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">561645790</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72024699">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Playboi Carti</mo:artist>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q8091414"/>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">25-12-2020</ma:releaseDate>
+	<mo:isrc>USUM72024699</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1147</has_rank>
+	<dct:identifier>USUM72024699</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">209136</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">710319373</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12401030">
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">18-04-2024</ma:releaseDate>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125516499"/>
+	<mo:artist>Taylor Swift</mo:artist>
+	<mo:isrc>USUG12401030</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1161</has_rank>
+	<dct:identifier>USUG12401030</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3784</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">161916445</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM72208963">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q112182851"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Kendrick Lamar</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">13-05-2022</ma:releaseDate>
+	<mo:isrc>USUM72208963</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1194</has_rank>
+	<dct:identifier>USUM72208963</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11802</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">426936498</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#QZTAT2174000">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q117834537"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Yng Lvcas</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">24-12-2021</ma:releaseDate>
+	<mo:isrc>QZTAT2174000</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1198</has_rank>
+	<dct:identifier>QZTAT2174000</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">35404</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">255707376</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#QM24S2203185">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q123221188"/>
+	<mo:artist>Brent Faiyaz</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">08-07-2022</ma:releaseDate>
+	<mo:isrc>QM24S2203185</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1232</has_rank>
+	<dct:identifier>QM24S2203185</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">61987</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">315014005</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12401036">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125693656"/>
+	<mo:artist>Taylor Swift</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">18-04-2024</ma:releaseDate>
+	<mo:isrc>USUG12401036</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1264</has_rank>
+	<dct:identifier>USUG12401036</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4418</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">165611453</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USAT21001886">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q194499"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Bruno Mars</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">05-10-2010</ma:releaseDate>
+	<mo:isrc>USAT21001886</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1496</has_rank>
+	<dct:identifier>USAT21001886</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">151801</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">950810060</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USWB12401092">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q756785"/>
+	<mo:artist>Benson Boone</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">05-04-2024</ma:releaseDate>
+	<mo:isrc>USWB12401092</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1589</has_rank>
+	<dct:identifier>USWB12401092</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5724</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">72952792</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#GBUM71400597">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q15891138"/>
+	<mo:artist>Iggy Azalea</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">01-01-2014</ma:releaseDate>
+	<mo:isrc>GBUM71400597</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">163</has_rank>
+	<dct:identifier>GBUM71400597</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8947</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">724486951</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12305007">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q121225459"/>
+	<mo:artist>Olivia Rodrigo</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">08-09-2023</ma:releaseDate>
+	<mo:isrc>USUG12305007</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">214</has_rank>
+	<dct:identifier>USUG12305007</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1732</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">287164579</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#GBBKS1500215">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q22043182"/>
+	<mo:artist>Adele</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">20-11-2015</ma:releaseDate>
+	<mo:isrc>GBBKS1500215</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2234</has_rank>
+	<dct:identifier>GBBKS1500215</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">89443</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1064599051</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM71409723">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q3882502"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Ariana Grande</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">21-08-2014</ma:releaseDate>
+	<mo:isrc>USUM71409723</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2243</has_rank>
+	<dct:identifier>USUM71409723</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">110953</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1465918510</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12401041">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125568541"/>
+	<mo:artist>Taylor Swift</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">18-04-2024</ma:releaseDate>
+	<mo:isrc>USUG12401041</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2304</has_rank>
+	<dct:identifier>USUG12401041</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2923</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">122986507</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USRC12101540">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q107642960"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Doja Cat</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">25-06-2021</ma:releaseDate>
+	<mo:isrc>USRC12101540</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2454</has_rank>
+	<dct:identifier>USRC12101540</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">90475</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">599547543</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12401042">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125906644"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Taylor Swift</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">18-04-2024</ma:releaseDate>
+	<mo:isrc>USUG12401042</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2513</has_rank>
+	<dct:identifier>USUG12401042</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2992</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">106201248</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12401053">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125568545"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Taylor Swift</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">18-04-2024</ma:releaseDate>
+	<mo:isrc>USUG12401053</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2525</has_rank>
+	<dct:identifier>USUG12401053</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">648</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">250430303</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USIR10211066">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q28004"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Eminem</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">26-05-2002</ma:releaseDate>
+	<mo:isrc>USIR10211066</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2651</has_rank>
+	<dct:identifier>USIR10211066</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">282888</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1958809069</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#QMJMT1500801">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q104842989"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Willow</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">11-01-2015</ma:releaseDate>
+	<mo:isrc>QMJMT1500801</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2678</has_rank>
+	<dct:identifier>QMJMT1500801</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">220073</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1081039358</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#QM6MZ2214880">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q112811499"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Bad Bunny</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">06-05-2022</ma:releaseDate>
+	<mo:isrc>QM6MZ2214880</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2901</has_rank>
+	<dct:identifier>QM6MZ2214880</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">49381</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">370800055</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUM71205367">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q133755"/>
+	<mo:artist>Justin Bieber</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">01-01-2012</ma:releaseDate>
+	<mo:isrc>USUM71205367</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3001</has_rank>
+	<dct:identifier>USUM71205367</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">123017</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">827079737</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USJ5G1815012">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q114409896"/>
+	<mo:artist>Mitski</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">17-08-2018</ma:releaseDate>
+	<mo:isrc>USJ5G1815012</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3388</has_rank>
+	<dct:identifier>USJ5G1815012</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">133098</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">743015700</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USUG12401049">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125728251"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Taylor Swift</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">18-04-2024</ma:releaseDate>
+	<mo:isrc>USUG12401049</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3437</has_rank>
+	<dct:identifier>USUG12401049</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">418</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">210385853</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#GBMQN1100004">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Passenger</mo:artist>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q3914117"/>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">01-01-2012</ma:releaseDate>
+	<mo:isrc>GBMQN1100004</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3534</has_rank>
+	<dct:identifier>GBMQN1100004</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">205647</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2252713547</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#TCADG1741539">
+	<mo:artist>Ghostemane</mo:artist>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q123118122"/>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">05-09-2017</ma:releaseDate>
+	<mo:isrc>TCADG1741539</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4279</has_rank>
+	<dct:identifier>TCADG1741539</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8932</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">333141510</hasTotalStreams>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data#USSM12403211">
+	<mo:track rdf:resource="https://www.wikidata.org/entity/Q125457111"/>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#SpotifyTrack"/>
+	<mo:artist>Future</mo:artist>
+	<ma:releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">12-04-2024</ma:releaseDate>
+	<mo:isrc>USSM12403211</mo:isrc>
+	<has_rank xmlns="http://purl.obolibrary.org/obo/ncbitaxon#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4487</has_rank>
+	<dct:identifier>USSM12403211</dct:identifier>
+	<hasPlaylistCount xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">541</hasPlaylistCount>
+	<hasTotalStreams xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/SpotifyTrack#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19215365</hasTotalStreams>
+</rdf:Description>
+
+</rdf:RDF>

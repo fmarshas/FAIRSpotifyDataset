@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:schema="http://schema.org/"
+	xmlns:mo="http://purl.org/ontology/mo/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#60a0Rd6pjrkxjPbaKzXjfq">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Linkin Park</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q20003</mo:track>
+	<schema:musicAlbum>Hybrid Theory (Bonus Edition)</schema:musicAlbum>
+	<dct:identifier>60a0Rd6pjrkxjPbaKzXjfq</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">556</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">864</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">3</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-5.87</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0584</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.00958</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">209</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.4</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">105143</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1444841705</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#2B4GHvToeLTOBB4QLzW3Ni">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Farruko</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q107947655</mo:track>
+	<schema:musicAlbum>La 167</schema:musicAlbum>
+	<dct:identifier>2B4GHvToeLTOBB4QLzW3Ni</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">762</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">766</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">7</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-3955</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0343</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.00776</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">6.98E-5</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">128</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">442</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">130001</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1174282383</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#6habFhsOp2NvshLv26DqMb">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Luis Fonsi</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q28572509</mo:track>
+	<schema:musicAlbum>VIDA</schema:musicAlbum>
+	<dct:identifier>6habFhsOp2NvshLv26DqMb</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">655</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">797</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">2</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-4787</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">153</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">198</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">67</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">839</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">177928</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1506598267</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#4uUG5RXrOk84mYEfFvj3cK">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>David Guetta</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q113680812</mo:track>
+	<schema:musicAlbum>I'm Good (Blue)</schema:musicAlbum>
+	<dct:identifier>4uUG5RXrOk84mYEfFvj3cK</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">561</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">965</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">7</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-3673</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0343</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.00383</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">7.07E-6</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">371</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">304</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">128.04</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">647071452</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#0yLdNVWF3Srea0uzk55zFn">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Miley Cyrus</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q112939324</mo:track>
+	<schema:musicAlbum>Flowers</schema:musicAlbum>
+	<dct:identifier>0yLdNVWF3Srea0uzk55zFn</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">707</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">681</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-4325</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0668</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0632</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">5.15E-6</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0322</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">646</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">117999</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">283884907</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#1qMMYpVatbRITKCfq1gasi">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Future</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q112648818</mo:track>
+	<schema:musicAlbum>I NEVER LIKED YOU</schema:musicAlbum>
+	<dct:identifier>1qMMYpVatbRITKCfq1gasi</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">883</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">657</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">8</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-5748</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">305</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0603</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">128</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">284</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">124992</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">168953668</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#1KxwZYyzWNyZSRyErj2ojT">
+	<schema:musicAlbum>All The Little Lights</schema:musicAlbum>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Passenger</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q3914117</mo:track>
+	<dct:identifier>1KxwZYyzWNyZSRyErj2ojT</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">479</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">545</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">7</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-7346</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0688</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">365</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0963</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">243</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">74897</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1785368454</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#46IZ0fSY2mpAiktS3KOqds">
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">604</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">366</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">5</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-7519</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0282</hasSpeechiness>
+	<mo:artist>Adele</mo:artist>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:track>https://www.wikidata.org/entity/Q108805763</mo:track>
+	<schema:musicAlbum>30</schema:musicAlbum>
+	<dct:identifier>46IZ0fSY2mpAiktS3KOqds</dct:identifier>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">578</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">133</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.13</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">141981</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1198067568</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#2rbDhOo9Fh61Bbu23T2qCk">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Lady Gaga</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q57461813</mo:track>
+	<schema:musicAlbum>A Star Is Born Soundtrack (Without Dialogue)</schema:musicAlbum>
+	<dct:identifier>2rbDhOo9Fh61Bbu23T2qCk</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">553</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">502</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-5972</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0409</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">299</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">764</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">296</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">129976</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">903516947</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#7xoUc6faLbCqZO6fQEYprd">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Ariana Grande</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q3882502</mo:track>
+	<schema:musicAlbum>My Everything (Deluxe)</schema:musicAlbum>
+	<dct:identifier>7xoUc6faLbCqZO6fQEYprd</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">628</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">593</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">8</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-5036</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0323</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">93</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1.65E-6</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">96</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">104</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">125026</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1090948668</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#0KKkJNfGyhkQ5aFogxQAPU">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Bruno Mars</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q28452709</mo:track>
+	<schema:musicAlbum>24K Magic</schema:musicAlbum>
+	<dct:identifier>0KKkJNfGyhkQ5aFogxQAPU</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">853</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.56</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-4961</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0406</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">13</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0944</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.86</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">134066</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1562466168</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#29TPjc8wxfz4XMn21O7VsZ">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Playboi Carti</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q8091414</mo:track>
+	<schema:musicAlbum>Whole Lotta Red</schema:musicAlbum>
+	<dct:identifier>29TPjc8wxfz4XMn21O7VsZ</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">785</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">903</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">2</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-4184</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.21</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">258</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">169</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">565</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">139.98</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">406548720</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#0fX4oNGBWO3dSGUZcVdVV2">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Kendrick Lamar</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q112182851</mo:track>
+	<schema:musicAlbum>Mr. Morale &amp; The Big Steppers</schema:musicAlbum>
+	<dct:identifier>0fX4oNGBWO3dSGUZcVdVV2</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.79</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.67</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-5527</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">105</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">377</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">2.32E-6</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">119</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">408</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">139956</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">226246635</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#7MXVkk9YMctZqd1Srtv4MB">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>The Weeknd</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q26980835</mo:track>
+	<schema:musicAlbum>Starboy</schema:musicAlbum>
+	<dct:identifier>7MXVkk9YMctZqd1Srtv4MB</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">679</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">587</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">7</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-7015</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">276</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">141</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">6.35E-6</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">137</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">486</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">186003</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">2180812000</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#0VjIjW4GlUZAMYd2vXMi3b">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>The Weeknd</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q76566134</mo:track>
+	<schema:musicAlbum>After Hours</schema:musicAlbum>
+	<dct:identifier>0VjIjW4GlUZAMYd2vXMi3b</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">514</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.73</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-5934</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0598</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.00146</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">9.54E-5</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0897</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">334</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">171005</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">3386520288</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#5QO79kh1waicV47BqGRL3g">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:track>https://www.wikidata.org/entity/Q96405034</mo:track>
+	<schema:musicAlbum>After Hours</schema:musicAlbum>
+	<mo:artist>The Weeknd</mo:artist>
+	<dct:identifier>5QO79kh1waicV47BqGRL3g</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.68</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">826</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-5487</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0309</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0212</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1.24E-5</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">543</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">644</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">118051</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1368121562</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#0QHEIqNKsMoOY5urbzN48u">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Meghan Trainor</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q1133678</mo:track>
+	<schema:musicAlbum>Takin' It Back</schema:musicAlbum>
+	<dct:identifier>0QHEIqNKsMoOY5urbzN48u</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">838</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">525</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">10</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-3562</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0665</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">345</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1.92E-6</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0771</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">884</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">144981</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">269188318</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#3oiMJQAWVaxSubJ7b2VUtX">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Iggy Azalea</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q15891138</mo:track>
+	<schema:musicAlbum>The New Classic (Deluxe Version)</schema:musicAlbum>
+	<dct:identifier>3oiMJQAWVaxSubJ7b2VUtX</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">912</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">716</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">10</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-4141</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0697</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0904</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0491</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">377</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">94981</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">633676785</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#3BnDvpeuGOj21Ir2aVEtQo">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Rema</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q113669344</mo:track>
+	<schema:musicAlbum>Rave &amp; Roses</schema:musicAlbum>
+	<dct:identifier>3BnDvpeuGOj21Ir2aVEtQo</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">814</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">789</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">11</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-6.29</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0405</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">365</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">5.02E-4</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">137</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">842</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">107003</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">277571368</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#02MWAaffLxlfxAUY7c5dvx">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Glass Animals</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q104540815</mo:track>
+	<schema:musicAlbum>Dreamland (+ Bonus Levels)</schema:musicAlbum>
+	<dct:identifier>02MWAaffLxlfxAUY7c5dvx</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">761</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">525</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">11</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-6.9</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0944</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.44</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">6.7E-6</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0921</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">531</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">80.87</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">2261464473</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#0W6I02J9xcqK8MtSeosEXb">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Doja Cat</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q108392446</mo:track>
+	<schema:musicAlbum>Planet Her</schema:musicAlbum>
+	<dct:identifier>0W6I02J9xcqK8MtSeosEXb</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">912</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">655</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">8</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-6029</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">162</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">315</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">3.39E-5</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0894</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">793</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">91942</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">456183004</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#5lAnYvAIkSDNXqfo7DyFUm">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Doja Cat</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q107642960</mo:track>
+	<schema:musicAlbum>Planet Her</schema:musicAlbum>
+	<dct:identifier>5lAnYvAIkSDNXqfo7DyFUm</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">855</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">488</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">3</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-4601</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">208</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">506</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">347</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">619</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">124097</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">437721967</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#1Qrg8KqiBpW07V7PNxwwwL">
+	<mo:artist>SZA</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q115706733</mo:track>
+	<schema:musicAlbum>SOS</schema:musicAlbum>
+	<dct:identifier>1Qrg8KqiBpW07V7PNxwwwL</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">644</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">735</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">8</hasKey>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-5747</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0391</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0521</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">144</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">161</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">418</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">88.98</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">359102970</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#5Y35SjAfXjjG0sFQ3KOxmm">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>SZA</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q115755882</mo:track>
+	<schema:musicAlbum>SOS</schema:musicAlbum>
+	<dct:identifier>5Y35SjAfXjjG0sFQ3KOxmm</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">358</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">284</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">7</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-8285</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0285</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">805</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">183</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">276</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">99796</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">122981063</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#4iZ4pt7kvcaH6Yo8UoZ4s2">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>SZA</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q117842122</mo:track>
+	<schema:musicAlbum>SOS</schema:musicAlbum>
+	<dct:identifier>4iZ4pt7kvcaH6Yo8UoZ4s2</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">559</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">551</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">5</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-7231</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">132</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">141</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.11</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">392</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">143008</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">80147750</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#3cBsEDNhFI9E82vPj3kvi3">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Morgan Wallen</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q105038625</mo:track>
+	<schema:musicAlbum>Dangerous: The Double Album</schema:musicAlbum>
+	<dct:identifier>3cBsEDNhFI9E82vPj3kvi3</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">505</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">657</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">11</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-5.24</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0318</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">373</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.00107</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">126</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">252</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">196</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">330942598</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#7JJmb5XwzOO8jgpou264Ml">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Shawn Mendes</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q29998244</mo:track>
+	<schema:musicAlbum>Illuminate (Deluxe)</schema:musicAlbum>
+	<dct:identifier>7JJmb5XwzOO8jgpou264Ml</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">866</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">813</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">11</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-4063</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0554</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.38</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0779</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">969</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">121998</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1546722489</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#3XgGQ1wjo5khvq2UImjyNF">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Brent Faiyaz</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q55603669</mo:track>
+	<schema:musicAlbum>WASTELAND</schema:musicAlbum>
+	<dct:identifier>3XgGQ1wjo5khvq2UImjyNF</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">617</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">378</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">9</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-8.54</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0315</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">428</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">9.16E-5</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.11</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.22</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">141967</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">94921891</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#0UKzG4fJ1LXf6DInew5vcV">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Ghostemane</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q123118122</mo:track>
+	<schema:musicAlbum>Hexada</schema:musicAlbum>
+	<dct:identifier>0UKzG4fJ1LXf6DInew5vcV</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">826</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">816</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">2</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-7345</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">345</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0581</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.00938</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0593</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.43</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">156995</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">252566690</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#6Sq7ltF9Qa7SNFBsV5Cogx">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Bad Bunny</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q112161024</mo:track>
+	<schema:musicAlbum>Un Verano Sin Ti</schema:musicAlbum>
+	<dct:identifier>6Sq7ltF9Qa7SNFBsV5Cogx</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">911</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">712</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-5105</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0817</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0901</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">2.68E-5</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0933</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">425</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">92005</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1126562780</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#1IHWl5LamUGEuP4ozKQSXZ">
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0993</hasAccousticness>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">715</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">5</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-5198</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">253</hasSpeechiness>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Bad Bunny</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q112271410</mo:track>
+	<schema:musicAlbum>Un Verano Sin Ti</schema:musicAlbum>
+	<dct:identifier>1IHWl5LamUGEuP4ozKQSXZ</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.65</hasDancebility>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">2.91E-4</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">126</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">187</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">106672</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1015110510</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#5Eax0qFko2dh7Rl2lYs3bx">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Bad Bunny</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q112762617</mo:track>
+	<schema:musicAlbum>Un Verano Sin Ti</schema:musicAlbum>
+	<dct:identifier>5Eax0qFko2dh7Rl2lYs3bx</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">801</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">475</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">7</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-8797</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0516</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">141</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1.73E-5</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0639</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">234</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">98047</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">811817080</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#6Xom58OOXk2SoU711L2IXO">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Bad Bunny</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q112056138</mo:track>
+	<schema:musicAlbum>Un Verano Sin Ti</schema:musicAlbum>
+	<dct:identifier>6Xom58OOXk2SoU711L2IXO</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">804</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">674</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">5</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-5453</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0333</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">294</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1.18E-6</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">115</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">292</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">99968</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">734777959</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#6mmPpaltUZK7xjNlBPQQ0p">
+	<schema:musicAlbum>VICE VERSA</schema:musicAlbum>
+	<dct:identifier>6mmPpaltUZK7xjNlBPQQ0p</dct:identifier>
+	<mo:artist>Rauw Alejandro</mo:artist>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:track>https://www.wikidata.org/entity/Q113297089</mo:track>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">869</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">694</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-3.35</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0783</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">356</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.00125</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0878</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">511</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">90.02</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">666769363</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#4RVwu0g32PAqgUiJoXsdF8">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Billie Eilish</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q106634897</mo:track>
+	<schema:musicAlbum>Happier Than Ever</schema:musicAlbum>
+	<dct:identifier>4RVwu0g32PAqgUiJoXsdF8</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">332</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">225</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-8697</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0348</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">767</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.00349</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">128</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">297</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">81055</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">907762843</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#4Dvkj6JhhA12EX05fT7y2e">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Harry Styles</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q111397510</mo:track>
+	<schema:musicAlbum>Harry's House</schema:musicAlbum>
+	<dct:identifier>4Dvkj6JhhA12EX05fT7y2e</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.52</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">731</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">6</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-5338</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0557</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">342</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.00101</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">311</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">662</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">173.93</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1865475968</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#1qEmFfgcLObUfQm0j1W2CK">
+	<mo:track>https://www.wikidata.org/entity/Q112075432</mo:track>
+	<schema:musicAlbum>Harry's House</schema:musicAlbum>
+	<dct:identifier>1qEmFfgcLObUfQm0j1W2CK</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">714</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">728</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">10</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-4595</hasLoudness>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Harry Styles</mo:artist>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0468</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">298</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">106</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">901</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">114996</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">540698676</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#0nbXyq5TXYPCO7pr3N8S4I">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Roddy Ricch</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q82025076</mo:track>
+	<schema:musicAlbum>Please Excuse Me for Being Antisocial</schema:musicAlbum>
+	<dct:identifier>0nbXyq5TXYPCO7pr3N8S4I</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">896</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">586</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">10</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-6687</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0559</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">104</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.79</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">642</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">116971</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1568151331</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#0mflMxspEfB0VbI1kyLiAv">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Noah Kahan</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q118944525</mo:track>
+	<schema:musicAlbum>Stick Season</schema:musicAlbum>
+	<dct:identifier>0mflMxspEfB0VbI1kyLiAv</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">662</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">488</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">9</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-6894</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0682</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">782</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">102</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">817</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">117913</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">101928564</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#2U5WueTLIK5WJLD7mvDODv">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Juice WRLD</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q97382488</mo:track>
+	<schema:musicAlbum>Legends Never Die</schema:musicAlbum>
+	<dct:identifier>2U5WueTLIK5WJLD7mvDODv</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.65</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">613</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">9</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-6.13</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">128</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.00336</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">267</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0804</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">149972</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">740272344</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#1VLtjHwRWOVJiE5Py7JxoQ">
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:artist>Polo G</mo:artist>
+	<mo:track>https://www.wikidata.org/entity/Q104034124</mo:track>
+	<schema:musicAlbum>THE GOAT</schema:musicAlbum>
+	<dct:identifier>1VLtjHwRWOVJiE5Py7JxoQ</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">832</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">534</hasEnergy>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1</hasKey>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-7813</hasLoudness>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">253</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">345</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">165</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">116</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">93924</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">615889219</hasStream>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/FAIR-course-UT/2024-2025/2/data2#0e8nrvls4Qqv5Rfa2UhqmO">
+	<schema:musicAlbum>MONTERO</schema:musicAlbum>
+	<dct:identifier>0e8nrvls4Qqv5Rfa2UhqmO</dct:identifier>
+	<hasDancebility xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">737</hasDancebility>
+	<hasEnergy xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">846</hasEnergy>
+	<hasLoudness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">-4.51</hasLoudness>
+	<hasKey xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">1</hasKey>
+	<mo:artist>Lil Nas X</mo:artist>
+	<rdf:type rdf:resource="https://w3id.org/FAIR-course-UT/2024-2025/2/ont#AdditionalSpotify"/>
+	<mo:track>https://www.wikidata.org/entity/Q108570587</mo:track>
+	<hasSpeechiness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.22</hasSpeechiness>
+	<hasAccousticness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.00614</hasAccousticness>
+	<hasInstrumentalness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0</hasInstrumentalness>
+	<hasLiveness xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">0.0486</hasLiveness>
+	<hasValence xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">546</hasValence>
+	<hasTempo xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">87981</hasTempo>
+	<hasStream xmlns="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify#">816086723</hasStream>
+</rdf:Description>
+
+</rdf:RDF>
