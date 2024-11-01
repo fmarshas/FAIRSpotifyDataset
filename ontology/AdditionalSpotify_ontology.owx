@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="https://w3id.org/FAIR-course-UT/2024-2025/2/ont/AdditionalSpotify">
+    <Prefix name="" IRI="http://www.semanticweb.org/marsia/ontologies/2024/10/untitled-ontology-11/"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Album"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Artist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Track"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasAlbum"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasTrack"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#performedBy"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasAccousticness"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasDanceability"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasEnergy"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasInstrumentalness"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasKey"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasLiveliness"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasLoudness"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasSpeechiness"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasSpotifyURI"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasStream"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasTempo"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasValence"/>
+    </Declaration>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasAlbum"/>
+        <Class IRI="#Track"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasTrack"/>
+        <Class IRI="#Track"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#performedBy"/>
+        <Class IRI="#Track"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasAlbum"/>
+        <Class IRI="#Album"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#performedBy"/>
+        <Class IRI="#Artist"/>
+    </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasAccousticness"/>
+        <Class IRI="#Track"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasDanceability"/>
+        <Class IRI="#Track"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasEnergy"/>
+        <Class IRI="#Track"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasInstrumentalness"/>
+        <Class IRI="#Track"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasKey"/>
+        <Class IRI="#Track"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasLiveliness"/>
+        <Class IRI="#Track"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasLoudness"/>
+        <Class IRI="#Track"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasSpeechiness"/>
+        <Class IRI="#Track"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasSpotifyURI"/>
+        <Class IRI="#Track"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasStream"/>
+        <Class IRI="#Track"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasTempo"/>
+        <Class IRI="#Track"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasValence"/>
+        <Class IRI="#Track"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasAccousticness"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasDanceability"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasEnergy"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasInstrumentalness"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasKey"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasLiveliness"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasLoudness"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasSpeechiness"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasSpotifyURI"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasStream"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasTempo"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasValence"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Album</IRI>
+        <Literal>The album property specifies the collection or album to which the track belongs. This information helps in categorizing tracks, especially when analyzing characteristics within an album.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Artist</IRI>
+        <Literal>This property indicates the name of the performer(s) or group associated with each track.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Track</IRI>
+        <Literal>This property represents the title of each song as it appears on streaming platforms. Track names are often used for matching and reconciliation with other datasets and may include additional details, such as featured artists, if applicable.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasAccousticness</IRI>
+        <Literal>This property provides a confidence measure for whether the track is acoustic. Higher values indicate a higher likelihood that the track has primarily acoustic elements.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasAlbum</IRI>
+        <Literal>This property links a Track to its associated Album. It establishes a relationship where a track is part of a larger collection of tracks, which typically share a common theme, release date, or artist.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasDanceability</IRI>
+        <Literal>This property measures how suitable a track is for dancing based on various musical elements like tempo, rhythm stability, beat strength, and regularity. Values range from 0 to 1, with higher values indicating tracks that are more danceable.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasEnergy</IRI>
+        <Literal>This property quantifies the intensity and activity of a track. Higher values (closer to 1) indicate more energetic tracks, characterized by fast tempo, loudness, and general liveliness.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasInstrumentalness</IRI>
+        <Literal>This property measures the likelihood that the track contains no vocals. Higher values indicate a stronger likelihood that the track is instrumental, with values closer to 1 representing instrumental tracks.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasKey</IRI>
+        <Literal>This property indicates the musical key of the track, represented as an integer corresponding to standard pitch classes (e.g., 0 = C, 1 = C♯/D♭, up to 11 = B).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasLiveliness</IRI>
+        <Literal>This property measures the presence of an audience in the recording, suggesting whether the track was recorded live. Values above 0.8 suggest a strong likelihood that the track is a live recording.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasLoudness</IRI>
+        <Literal>This property represents the loudness of the track in decibels (dB), averaged across the entire track. It provides a measure of the track’s overall volume, with negative values closer to zero indicating louder tracks.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasSpeechiness</IRI>
+        <Literal>This property measures the presence of spoken words in a track. Higher values indicate tracks that contain more spoken word content (e.g., podcasts, rap), with values above 0.66 suggesting mostly spoken content.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasStream</IRI>
+        <Literal>This property represents the total stream count for a track on a streaming platform. It quantifies how many times the track has been played by listeners, indicating its popularity.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasTempo</IRI>
+        <Literal>This property represents the overall estimated tempo of the track, measured in beats per minute (BPM). Tempo is the speed or pace of a piece and directly relates to the track’s rhythm.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasTrack</IRI>
+        <Literal>This property connects an Album to one of its Tracks. It signifies that the album includes specific tracks, each of which is a musical composition within that album.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasValence</IRI>
+        <Literal>This property indicates the musical positivity of the track. Higher values suggest more positive, happy, or cheerful sounds, while lower values suggest negative or sad sounds.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#performedBy</IRI>
+        <Literal>This property links a Track to the Artist who performed it. It indicates the artist responsible for the recording, whether it&apos;s a solo artist, a band, or any other musical performer.</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+
