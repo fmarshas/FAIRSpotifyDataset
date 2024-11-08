@@ -1,0 +1,61 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dcite: <http://purl.org/spar/datacite/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix language: <http://id.loc.gov/vocabulary/iso639-1/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix sio: <http://semanticscience.org/resource/>.
+@prefix wd: <https://www.wikidata.org/wiki/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix c: <http://localhost:8080/catalog/>.
+@prefix c81: <http://localhost:8080/catalog/c81106f2-692c-4e7f-9ce4-6212ea88c9de#>.
+@prefix pro: <http://localhost:8080/profile/>.
+@prefix met: <http://localhost:8080/catalog/c81106f2-692c-4e7f-9ce4-6212ea88c9de/metrics/>.
+@prefix d: <http://localhost:8080/dataset/>.
+@prefix res: <http://dbpedia.org/resource/>.
+@prefix fdp: <https://w3id.org/fdp/fdp-o#>.
+@prefix ldp: <http://www.w3.org/ns/ldp#>.
+
+c:c81106f2-692c-4e7f-9ce4-6212ea88c9de
+    a dcat:Catalog, dcat:Resource;
+    dct:accessRights c81:accessRights;
+    dct:conformsTo pro:a0949e72-4466-4d53-8900-9436d1049a4b;
+    dct:isPartOf <http://localhost:8080>;
+    dct:issued "2024-10-30T14:20:55.574006299Z"^^xsd:dateTime;
+    dct:language language:en;
+    dct:license <http://purl.org/NET/rdflicense/cc-zero1.0>;
+    dct:modified "2024-10-30T14:20:55.574006299Z"^^xsd:dateTime;
+    dct:publisher [ a foaf:Agent; foaf:name "Default Publisher" ];
+    dct:title "FAIR Data Engineering Course Metadata Catalog";
+    sio:SIO_000628
+    met:445c0a70d1e214e545b261559e2842f4, met:5d27e854a9e78eb3f663331cd47cdc13;
+    rdfs:label "FAIR Data Engineering Course Metadata Catalog";
+    dcat:dataset
+        d:a3bcd639-2709-47fe-a813-baf7689146d7,
+        d:b9c5fdb8-1de3-47a8-a608-80617e5b3c50;
+    dcat:themeTaxonomy res:Entertainment, res:Music, res:Streaming_media;
+    dcat:version "1.0.0";
+    fdp:metadataIdentifier c81:identifier;
+    fdp:metadataIssued "2024-10-30T14:20:55.574006299Z"^^xsd:dateTime;
+    fdp:metadataModified "2024-11-08T21:20:38.657794053Z"^^xsd:dateTime.
+met:445c0a70d1e214e545b261559e2842f4
+    sio:SIO_000332 <https://www.ietf.org/rfc/rfc3986.txt>;
+    sio:SIO_000628 <https://www.ietf.org/rfc/rfc3986.txt>.
+met:5d27e854a9e78eb3f663331cd47cdc13
+sio:SIO_000332 wd:Q8777; sio:SIO_000628 wd:Q8777.
+c81:accessRights
+    a dct:RightsStatement;
+    dct:description "This resource has no access restriction".
+c81:identifier
+    a dcite:Identifier;
+    dct:identifier
+    "http://localhost:8080/catalog/c81106f2-692c-4e7f-9ce4-6212ea88c9de".
+d:
+    a ldp:DirectContainer;
+    dct:title "Datasets";
+    ldp:contains
+        d:a3bcd639-2709-47fe-a813-baf7689146d7,
+        d:b9c5fdb8-1de3-47a8-a608-80617e5b3c50;
+    ldp:hasMemberRelation dcat:dataset;
+    ldp:membershipResource c:c81106f2-692c-4e7f-9ce4-6212ea88c9de.
+pro:a0949e72-4466-4d53-8900-9436d1049a4b rdfs:label "Catalog Profile".

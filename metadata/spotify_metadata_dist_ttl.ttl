@@ -1,0 +1,48 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dcite: <http://purl.org/spar/datacite/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix language: <http://id.loc.gov/vocabulary/iso639-1/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix sio: <http://semanticscience.org/resource/>.
+@prefix wd: <https://www.wikidata.org/wiki/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dis: <http://localhost:8080/distribution/>.
+@prefix e35: <http://localhost:8080/distribution/e35db50e-73a8-4cf1-8aaa-38d9dc1c4618#>.
+@prefix pro: <http://localhost:8080/profile/>.
+@prefix d: <http://localhost:8080/dataset/>.
+@prefix met: <http://localhost:8080/distribution/e35db50e-73a8-4cf1-8aaa-38d9dc1c4618/metrics/>.
+@prefix fdp: <https://w3id.org/fdp/fdp-o#>.
+
+dis:e35db50e-73a8-4cf1-8aaa-38d9dc1c4618
+    a dcat:Distribution, dcat:Resource;
+    dct:accessRights e35:accessRights;
+    dct:conformsTo pro:02c649de-c579-43bb-b470-306abdc808c7;
+    dct:isPartOf d:a3bcd639-2709-47fe-a813-baf7689146d7;
+    dct:language language:en;
+    dct:license <http://purl.org/NET/rdflicense/cc-zero1.0>;
+    dct:publisher [ a foaf:Agent; foaf:name "Group 2 FDP" ];
+    dct:title "text/ttl";
+    sio:SIO_000628
+    met:445c0a70d1e214e545b261559e2842f4, met:5d27e854a9e78eb3f663331cd47cdc13;
+    rdfs:label "text/ttl";
+    dcat:downloadURL
+        <https://github.com/fmarshas/FAIRSpotifyDataset/blob/dddad951d6985738ef371be1b4e1ad2fa7b925b4/rdf/spotify_rdf_schema.ttl>;
+    dcat:mediaType "text/turtle";
+    dcat:version "1.0.0";
+    fdp:metadataIdentifier e35:identifier;
+    fdp:metadataIssued "2024-10-30T21:47:44.639415138Z"^^xsd:dateTime;
+    fdp:metadataModified "2024-11-01T16:49:58.364637127Z"^^xsd:dateTime.
+met:445c0a70d1e214e545b261559e2842f4
+    sio:SIO_000332 <https://www.ietf.org/rfc/rfc3986.txt>;
+    sio:SIO_000628 <https://www.ietf.org/rfc/rfc3986.txt>.
+met:5d27e854a9e78eb3f663331cd47cdc13
+sio:SIO_000332 wd:Q8777; sio:SIO_000628 wd:Q8777.
+e35:accessRights
+    a dct:RightsStatement;
+    dct:description "This resource has no access restriction".
+e35:identifier
+    a dcite:Identifier;
+    dct:identifier
+    "http://localhost:8080/distribution/e35db50e-73a8-4cf1-8aaa-38d9dc1c4618".
+pro:02c649de-c579-43bb-b470-306abdc808c7 rdfs:label "Distribution Profile".
