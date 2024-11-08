@@ -1,0 +1,50 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dcite: <http://purl.org/spar/datacite/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix language: <http://id.loc.gov/vocabulary/iso639-1/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix sio: <http://semanticscience.org/resource/>.
+@prefix wd: <https://www.wikidata.org/wiki/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dis: <http://localhost:8080/distribution/>.
+@prefix n0: <http://localhost:8080/distribution/63fdf968-7475-4ef4-804f-162b7e202efc#>.
+@prefix pro: <http://localhost:8080/profile/>.
+@prefix d: <http://localhost:8080/dataset/>.
+@prefix met: <http://localhost:8080/distribution/63fdf968-7475-4ef4-804f-162b7e202efc/metrics/>.
+@prefix s: <https://www.kaggle.com/datasets/salvatorerastelli/>.
+@prefix n1: <https://github.com/fmarshas/FAIRSpotifyDataset/tree/1be7e1a8b411b5aae88311a1b65b13c94cdd525e/>.
+@prefix fdp: <https://w3id.org/fdp/fdp-o#>.
+
+dis:63fdf968-7475-4ef4-804f-162b7e202efc
+    a dcat:Distribution, dcat:Resource;
+    dct:accessRights n0:accessRights;
+    dct:conformsTo pro:02c649de-c579-43bb-b470-306abdc808c7;
+    dct:isPartOf d:b9c5fdb8-1de3-47a8-a608-80617e5b3c50;
+    dct:language language:en;
+    dct:license <http://purl.org/NET/rdflicense/cc-zero1.0>;
+    dct:publisher [ a foaf:Agent; foaf:name "Group 2 FDP" ];
+    dct:title "text/csv";
+    sio:SIO_000628
+    met:445c0a70d1e214e545b261559e2842f4, met:5d27e854a9e78eb3f663331cd47cdc13;
+    rdfs:label "text/csv";
+    dcat:accessURL s:spotify-and-youtube;
+    dcat:downloadURL n1:data;
+    dcat:mediaType "text/csv";
+    dcat:version "1.0.0";
+    fdp:metadataIdentifier n0:identifier;
+    fdp:metadataIssued "2024-11-08T21:19:21.244707837Z"^^xsd:dateTime;
+    fdp:metadataModified "2024-11-08T21:38:30.718090383Z"^^xsd:dateTime.
+met:445c0a70d1e214e545b261559e2842f4
+    sio:SIO_000332 <https://www.ietf.org/rfc/rfc3986.txt>;
+    sio:SIO_000628 <https://www.ietf.org/rfc/rfc3986.txt>.
+met:5d27e854a9e78eb3f663331cd47cdc13
+sio:SIO_000332 wd:Q8777; sio:SIO_000628 wd:Q8777.
+n0:accessRights
+    a dct:RightsStatement;
+    dct:description "This resource has no access restriction".
+n0:identifier
+    a dcite:Identifier;
+    dct:identifier
+    "http://localhost:8080/distribution/63fdf968-7475-4ef4-804f-162b7e202efc".
+pro:02c649de-c579-43bb-b470-306abdc808c7 rdfs:label "Distribution Profile".
